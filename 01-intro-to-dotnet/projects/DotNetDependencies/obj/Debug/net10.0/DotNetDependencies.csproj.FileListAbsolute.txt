@@ -1,0 +1,15 @@
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.deps.json
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.runtimeconfig.json
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.dll
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/bin/Debug/net10.0/DotNetDependencies.pdb
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.AssemblyInfoInputs.cache
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.AssemblyInfo.cs
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.csproj.CoreCompileInputs.cache
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.sourcelink.json
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.dll
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/refint/DotNetDependencies.dll
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.pdb
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/DotNetDependencies.genruntimeconfig.cache
+/Users/mikal/microsoft-learn-dotnet-journey/01-intro-to-dotnet/projects/DotNetDependencies/obj/Debug/net10.0/ref/DotNetDependencies.dll
